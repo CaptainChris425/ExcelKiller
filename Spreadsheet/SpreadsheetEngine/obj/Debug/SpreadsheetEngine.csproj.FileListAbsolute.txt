@@ -1,0 +1,8 @@
+C:\Users\kicky\cs321-cyoung\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\kicky\cs321-cyoung\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\kicky\cs321-cyoung\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\kicky\cs321-cyoung\Spreadsheet\SpreadsheetEngine\bin\Debug\ClassLibrary1.dll
+C:\Users\kicky\cs321-cyoung\Spreadsheet\SpreadsheetEngine\bin\Debug\ClassLibrary1.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache

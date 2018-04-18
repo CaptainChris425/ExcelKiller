@@ -1,0 +1,9 @@
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kicky\cs321-cyoung\Spreadsheet\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

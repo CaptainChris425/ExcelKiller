@@ -1,0 +1,15 @@
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe.config
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csprojResolveAssemblyReference.cache
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Properties.Resources.resources
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.GenerateResource.Cache
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.exe
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.dll
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\bin\Debug\ClassLibrary1.dll
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\bin\Debug\ClassLibrary1.pdb
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.cy_excel.resources
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\kicky\cs321-cyoung\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.AboutBox1.resources
